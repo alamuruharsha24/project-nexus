@@ -1,0 +1,151 @@
+.navbar-nav{
+    margin-left: auto;
+}
+
+.logo-image{
+    height: 40px;
+}
+
+.main-bg-image{
+    background-image: url(https://res.cloudinary.com/dtobij9ei/image/upload/v1703866176/Food%20Mood%27/top-view-food-frame-with-copy-space_jqddi5.jpg);
+    height: 100vh;
+    background-size: cover;
+    padding: 30px;
+}
+
+.main-para{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+
+}
+
+span{
+    color: Red;
+    font-style: italic;
+}
+
+.chooseus-bg{
+    border: 2px solid orange;
+    border-top-right-radius: 13px;
+    border-bottom-left-radius: 13px;
+    padding: 15px;
+    margin-top: 20px;
+}
+.chooseus-bg:hover{
+    background-image: linear-gradient(
+        #FEC163,#DE4313);
+    color: white;
+    cursor: pointer;
+}
+
+.modal-style{
+    width: 100px;
+    background-color: orange;
+}
+
+
+
+.menu-image{
+    height: 300px;
+    width: 100%;
+    border-radius: 12px;
+    
+    
+}
+
+.food-item{
+    border: 15px solid white;
+    border-radius: 12px;
+}
+
+#nav1{
+    color: black;
+}
+#nav2{
+    color: black;
+}
+#nav3{
+    color: black;
+}
+#nav4{
+    color: black;
+}
+
+#nav1:hover{
+    color: orange;
+    text-decoration: underline;
+}
+#nav2:hover{
+    color: orange;
+    text-decoration: underline;
+}
+#nav3:hover{
+    color: orange;
+    text-decoration: underline;
+}
+#nav4:hover{
+    color: orange;
+    text-decoration: underline;
+}
+.sub-headings{
+    font-family: cursive;
+    color: orange;
+    font-weight: bold;
+}
+
+.bg-fotter{
+
+    background-image: linear-gradient(
+    #FEC163,#DE4313);
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+}
+
+.icon-style{
+    font-size: 35px;
+    color:white;
+    margin-inline: 13px;
+    background-image: linear-gradient(
+        #FEC163,#DE4313);
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    padding-left: 13.5px;
+    padding-top: 3px;
+}
+
+
+
+.footer-logo{
+    height: 60px;
+}
+
+.footer-para{
+    margin-inline: 8px;
+    color: white;
+    padding-top: 1.5px;
+}
+
+.footer-paraone{
+    color: white;
+    padding-top: 1.5px;
+}
+
+.doneby{
+    background-color:white;
+    color: orange;
+    text-align: center;
+    font-family: cursive;
+    padding: 5px;
+    margin-bottom: 0px;
+}
+
+.ho{
+    padding-top: 12px;
+}
+.ho:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    color: orange;
+}
